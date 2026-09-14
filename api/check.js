@@ -1,5 +1,5 @@
 const REAL_API = process.env.FRAUD_API_URL
-  || 'https://infodokan.nagad.us.cc/Fraud_Checker/Fraud-ck.php';
+  || 'https://infodokan.nagad.us.cc/apilab/Sub-Fraud.php';
 
 const hits = new Map();
 const WINDOW = 60 * 1000;
